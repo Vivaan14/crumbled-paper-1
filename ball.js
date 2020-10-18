@@ -6,7 +6,6 @@ restituation :0.3,
 friction : 0.5,
 density : 1.2
 }
-this.image = loadImage("paper.png")
 this.x = x;
 this.y = y;
 this.radius=radius;
